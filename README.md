@@ -1,4 +1,4 @@
-# 🔐 Sistema de Login en Java
+# 🔐 Sistema de Login Basico en Java
 
 Aplicación de escritorio para la autenticación y gestión de usuarios mediante roles. Permite el control de acceso diferenciado y la administración de credenciales, siguiendo el modelo de capas.
 
